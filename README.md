@@ -10,5 +10,5 @@ I implemented both methods (and several others) in Matlab and compared their per
 Moreover the HPER_alpha.m script implements a perturbation on the starting stochastic matrix to speed that method up meaning it provides us with the solution of a slightly different problem, so I tried to measure how close is sorting in the perturbed case to the original one plotting the permutation graphic.
 
 Here you can find:
-*pota
-*figa
+>pota
+>vecio
