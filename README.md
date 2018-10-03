@@ -13,5 +13,3 @@ Here you can find:
 >All the script used in my numerical experiments.
 
 >A PDF file explaining my whole work (in italian).
-
->LaTeX source code & compilation necessary stuff like pics I've attached.
