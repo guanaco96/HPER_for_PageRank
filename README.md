@@ -3,7 +3,7 @@ ACHTUNG! ----Almost every content in this repository is written in italian----
 
 This repository contains an experimental comparison I made between HPER and the traditional power method for PageRank calculation.
 
-HPER stands for Householder Preconditioned Euler-Richardson and it's a method designed by Stefano Cipolla, Carmine Di Fiore and Francesco Tudisco in an article I'm attaching.
+HPER stands for **Householder Preconditioned Euler-Richardson** and it's a method designed by Stefano Cipolla, Carmine Di Fiore and Francesco Tudisco in an article I'm attaching.
 
 I implemented both methods (and Jacobi's method too) in Matlab and compared their performances on both synthetic and real data.
 
