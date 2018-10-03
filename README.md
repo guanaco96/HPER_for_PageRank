@@ -5,10 +5,13 @@ This repository contains an experimental comparison I made between HPER and the 
 
 HPER stands for Householder Preconditioned Euler-Richardson and it's a method designed by Stefano Cipolla, Carmine Di Fiore and Francesco Tudisco in an article I'm attaching.
 
-I implemented both methods (and several others) in Matlab and compared their performances on both synthetic and real data.
+I implemented both methods (and Jacobi's method too) in Matlab and compared their performances on both synthetic and real data.
 
 Moreover the HPER_alpha.m script implements a perturbation on the starting stochastic matrix to speed that method up meaning it provides us with the solution of a slightly different problem, so I tried to measure how close is sorting in the perturbed case to the original one plotting the permutation graphic.
 
 Here you can find:
--pota
-*vecio
+>All the script used in my numerical experiments.
+
+>A PDF file explaining my whole work (in italian).
+
+>LaTeX source code & compilation necessary stuff like pics I've attached.
